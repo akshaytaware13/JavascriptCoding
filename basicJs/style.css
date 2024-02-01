@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h2{
+  text-align: center;
+  font-size: 50px;
+  padding: 30px;
+}
+
+/* body{
+ color: white;
+  /* background-color: rgb(19, 72, 115); */
+
+.container{
+  text-align: center;
+  padding: 10px;
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* .container img{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 600px;
+  height: 400px;
+}
+p{
+  font-size: 17px;
+}
+
+ul{
+  padding-left: 30px;
+} */
+
+button{
+  font-size: 30px;
+  padding: 5px 15px;
+}
